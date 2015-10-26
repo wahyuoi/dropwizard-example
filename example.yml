@@ -1,0 +1,5 @@
+database:
+  driverClass: com.mysql.jdbc.Driver
+  user: root
+  password: toor
+  url: jdbc:mysql://localhost/temp
